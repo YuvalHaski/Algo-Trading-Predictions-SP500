@@ -13,5 +13,4 @@
 
 ### Intro
 - In this project, we will be using Data from the S&P500 Index from Yahoo Finance as well as Technical Indicators.
-
 - We will use most of the indicators from Pandas_TA Library
